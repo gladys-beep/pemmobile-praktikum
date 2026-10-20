@@ -11,6 +11,7 @@
    ```bash
    npm install
 3. Jalankan server lokal
+   ```bash
    npx expo start  
 5. Scan QR code yang muncul menggunakan aplikasi Expo Go di HP fisikmu.
 
