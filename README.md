@@ -2,7 +2,8 @@
 - **Nama:** Gladys Huang
 - **NIM:** 253303620001
   
-<img width="738" height="1600" alt="WhatsApp Image 2026-10-20 at 20 05 17" src="https://github.com/user-attachments/assets/66243bc3-87d9-4df4-93c2-a26059ab9327" />
+<img width="738" height="1600" alt="my expo card" src="https://github.com/user-attachments/assets/faec9f43-99f9-44a9-98d7-0e3dbe5dd0c0" />
+
 
 ## Cara Menjalankan Proyek
 1. Clone atau download repositori ini ke komputer.
